@@ -1,4 +1,4 @@
-# Machine Learning
+# ✦ Machine Learning ✦
 
 Repositório criado para documentar estudos e projetos de ML. Está dividido por notebooks de acordo com a progressão dos estudos da seguinte forma:
 
