@@ -23,3 +23,5 @@ O que é o KNN e para quais tipos de problemas ele é indicado.
 ## 🧠 Exercícios
 
 ## 👩‍💻 Projeto Final
+
+## 📑 Referências + Cursos e Materiais extras
